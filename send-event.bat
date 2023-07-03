@@ -1,0 +1,1 @@
+.\bin\windows\kafka-console-producer.bat --topic aurora-store --bootstrap-server localhost:9092
